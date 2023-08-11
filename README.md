@@ -5,3 +5,4 @@
 -Admin paneli vardır
 -Kullanıcılar tasarımlara oy verebilir
 -Admin panelinden yeni tasarım ekleme gibi işlemler gerçekleştirebilirsiniz.
+-Yorumn satırları ile beraber neyin ne işe yaradığı anlatılmıştır
